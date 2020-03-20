@@ -28,8 +28,8 @@ A useful application built into React that sorts information about companies dow
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot01.png)
-![Example screenshot](./img/screenshot02.png)
+![Example screenshot](./img/screenshot1.png)
+![Example screenshot](./img/screenshot2.png)
 
 ## Setup
 
