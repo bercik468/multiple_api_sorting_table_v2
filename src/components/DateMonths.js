@@ -25,6 +25,7 @@ const DateMonths = props => {
     <>
       <form className={classes.container} noValidate>
         <TextField
+          format="yyyy-MM-dd"
           id="dateFrom"
           label="Date from"
           type="date"
@@ -36,6 +37,7 @@ const DateMonths = props => {
           onChange={props.date.setDateFrom}
         />
         <TextField
+          format="yyyy-MM-dd"
           id="dateTo"
           label="Date to"
           type="date"

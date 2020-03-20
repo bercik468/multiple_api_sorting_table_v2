@@ -56,11 +56,10 @@ export default function Details(props) {
   return (
     <div className={classes.dialog}>
       <Dialog
-        className={classes.dialog}
         open={props.open}
         TransitionComponent={Transition}
         keepMounted
-        PaperProps={{ style: { width: "100vw", height: "100vh" } }}
+        PaperProps={{ style: {} }}
       >
         <DialogTitle id="customized-dialog-title">Company details</DialogTitle>
         <IconButton

@@ -26,6 +26,11 @@ A useful application built into React that sorts information about companies dow
 - The results are paginated.
 - The application is responsive.
 
+## Screenshots
+
+![Example screenshot](./img/screenshot01.png)
+![Example screenshot](./img/screenshot02.png)
+
 ## Setup
 
 To clone and run this application, you'll need Git and React installed on your computer:
