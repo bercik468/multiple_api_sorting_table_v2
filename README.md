@@ -47,7 +47,7 @@ or just visit: Live preview.
 
 ## Live Preview:
 
-Check the preview here: https://bercik468.github.io/Multiple-API-sorting-table/
+Check the preview here: https://bercik468.github.io/multiple_api_sorting_table_v2/
 
 ## Contact
 
