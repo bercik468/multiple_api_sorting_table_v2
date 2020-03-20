@@ -6,18 +6,24 @@ A useful application built into React that sorts information about companies dow
 
 - React
 - Material-UI
+- Chart.js
 
 ## Used:
 
 - multiple API
+- gh-pages
 
 ## Features
 
 - The table displays: identifier, name, city and total income of the company.
 - The table is sorted by total income (descending).
-- The application allows to filter results by company name.
+- After filling in the "enter company name" field, the application will filter results by  
+  company name.
+- It is also possible to filter the table results in ascending / descending order, just click on
+  the column we are interested in (ID, NAME, CITY and TOTAL INCOME)
+- After selecting the company name, detailed information appears: total and average income
+  (with the option to set the date range), income from the last month and a graph showing the company's income.
 - The results are paginated.
-- After selecting the company name, detailed information appears (total and average income, income from the last month).
 - The application is responsive.
 
 ## Setup
