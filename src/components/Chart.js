@@ -5,7 +5,7 @@ import { makeStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles(theme => ({
   chart: {
     display: "none",
-    [theme.breakpoints.up(700)]: {
+    [theme.breakpoints.up(550)]: {
       display: "block"
     }
   }
