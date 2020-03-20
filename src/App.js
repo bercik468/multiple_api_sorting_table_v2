@@ -52,7 +52,7 @@ export class App extends Component {
                   ),
                   datasets: [
                     {
-                      label: "Kwota",
+                      label: "Income",
                       data: dataIncomes.incomes.map(income => income.value),
                       backgroundColor: dataIncomes.incomes.map(
                         income =>
@@ -197,8 +197,8 @@ export class App extends Component {
 
     if (
       (typeof dataOpen === "object") &
-      (newDateFrom !== "") &
-      (newDateTo !== "")
+      (newDateFrom !== "yyyy-MM-dd") &
+      (newDateTo !== "yyyy-MM-dd")
     ) {
       const newIncomes = dataOpen.incomes.filter(
         income =>

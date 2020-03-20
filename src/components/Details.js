@@ -93,8 +93,10 @@ export default function Details(props) {
           <DateMonths date={props} onChangeDate={props.onChangeDate} />
           <Chart
             chartData={props}
-            location="Massachusetts"
+            location="Income"
             legendPosition="bottom"
+            displayTitle={true}
+            displayLegend={true}
           />
         </DialogContent>
       </Dialog>
