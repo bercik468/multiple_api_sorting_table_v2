@@ -2,7 +2,7 @@
 
 A useful application built into React that sorts information about companies downloaded from the external API.
 
-## Technologies.
+## Technologies:
 
 - React
 - Material-UI
@@ -13,7 +13,7 @@ A useful application built into React that sorts information about companies dow
 - multiple API
 - gh-pages
 
-## Features
+## Features:
 
 - The table displays: identifier, name, city and total income of the company.
 - The table is sorted by total income (descending).
@@ -26,12 +26,12 @@ A useful application built into React that sorts information about companies dow
 - The results are paginated.
 - The application is responsive.
 
-## Screenshots
+## Screenshots:
 
 ![Example screenshot](./img/screenshot1.png)
 ![Example screenshot](./img/screenshot2.png)
 
-## Setup
+## Setup:
 
 To clone and run this application, you'll need Git and React installed on your computer:
 
@@ -54,6 +54,6 @@ or just visit: Live preview.
 
 Check the preview here: https://bercik468.github.io/multiple_api_sorting_table_v2/
 
-## Contact
+## Contact:
 
 Created by bercik468@gmail.com - feel free to contact me!
